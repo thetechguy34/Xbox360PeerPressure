@@ -1,5 +1,12 @@
 # This Repo is only a fork
 
+**Credits given**
+
+1. Grimdoomer - Creation of ABadUpdate and Peer Preasure
+2. PedroFavaro8 - for discovering and including corona support for peer preasure
+3. Shutterbug2000 - for the creation of ABadAvatar
+
+### Original Readme.MD by Grimdoomer
 # Peer Pressure Softmod For Xbox 360
 
 Within this fork the only change is the version of the AbadUpdate folder, this uses the AbadUpdate 3.2 version instead of 3.3 for better compatibility and less crashes when attempting the softmod
