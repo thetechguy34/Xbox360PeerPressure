@@ -1,4 +1,11 @@
+# This Repo is only a fork
+
 # Peer Pressure Softmod For Xbox 360
+
+Within this fork the only change is the version of the AbadUpdate folder, this uses the AbadUpdate 3.2 version instead of 3.3 for better compatibility and less crashes when attempting the softmod
+
+---------------------------------------------------------
+
 Peer Pressure is a persistent softmod exploit for Xbox 360. It works by making some modifications to the console NAND image and HDD security sectors to trigger a series of DMA attacks during startup which ultimately allow you to run unsigned code. Here's some of the features that Peer Pressure provides, for a complete list see [Softmod Features](../../wiki/Softmod-Features):
 - Removes all code signing restrictions on executables files allowing you to run homebrew applications.
 - Removes licensing and security checks for games, downloadable content, arcade games, indie games, etc.
