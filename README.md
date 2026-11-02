@@ -5,6 +5,7 @@
 1. Grimdoomer - Creation of ABadUpdate and Peer Preasure
 2. PedroFavaro8 - for discovering and including corona support for peer preasure
 3. Shutterbug2000 - for the creation of ABadAvatar
+4. The Aurora Team - creation of the Aurora Dashboard for Xbox 360
 
 ### Original Readme.MD by Grimdoomer
 # Peer Pressure Softmod For Xbox 360
